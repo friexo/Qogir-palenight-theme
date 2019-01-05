@@ -12,7 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Qogir
+THEME_NAME=Qogir-palenight
 MENU_VARIANTS=('' '-gnome')
 COLOR_VARIANTS=('' '-light' '-dark')
 

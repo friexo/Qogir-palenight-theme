@@ -30,7 +30,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#5C458F;stop-opacity:1;"
          offset="0"
          id="stop4166" />
     </linearGradient>
@@ -187,7 +187,7 @@
            cy="-262.63782"
            cx="-110"
            id="path1542"
-           style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+           style="opacity:1;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
         <path
            id="circle737"
            transform="translate(-8.000005,-285.63782)"

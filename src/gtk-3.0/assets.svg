@@ -55,7 +55,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#5C458F;stop-opacity:1;"
          offset="0"
          id="stop5956" />
     </linearGradient>
@@ -1564,7 +1564,7 @@
      transform="translate(8.000005,285.63782)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#1b1d24;fill-opacity:1;stroke:none;stroke-width:1.45673728;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49411765;paint-order:stroke fill markers"
+       style="opacity:1;fill:#292D3E;fill-opacity:1;stroke:none;stroke-width:1.45673728;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49411765;paint-order:stroke fill markers"
        id="rect1910"
        width="220"
        height="431"
@@ -1582,7 +1582,7 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f9fafb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate"
        transform="scale(1,-1)" />
     <rect
-       style="display:inline;fill:#1b1d24;fill-opacity:1;stroke:#222529;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#292D3E;fill-opacity:1;stroke:#222529;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11783"
        width="120.99998"
        height="138"

@@ -24,7 +24,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#5C458F;stop-opacity:1;"
          offset="0"
          id="stop4407" />
     </linearGradient>
@@ -212,7 +212,7 @@
          y="0"
          x="0" />
       <g
-         style="fill:#5294e2;fill-opacity:1"
+         style="fill:#5C458F;fill-opacity:1"
          transform="translate(25,2.9999812)"
          id="g5140-7">
         <rect
@@ -307,7 +307,7 @@
          y="0"
          x="0" />
       <g
-         style="fill:#5294e2;fill-opacity:1"
+         style="fill:#5C458F;fill-opacity:1"
          transform="translate(22.999996,-1.0000226)"
          id="g5193-7">
         <rect
@@ -1347,10 +1347,10 @@
         <g
            id="g5140-7-9"
            transform="translate(25,2.9999812)"
-           style="fill:#5294e2;fill-opacity:1" />
+           style="fill:#5C458F;fill-opacity:1" />
       </g>
       <ellipse
-         style="fill:#5294e2;fill-opacity:1;stroke-width:1.23442793"
+         style="fill:#5C458F;fill-opacity:1;stroke-width:1.23442793"
          id="path272-0"
          cx="177"
          cy="637.36218"

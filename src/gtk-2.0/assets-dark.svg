@@ -15,7 +15,7 @@
    height="416"
    id="svg9892"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="assets-dark.svg">
   <defs
      id="defs9894">
@@ -31,7 +31,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#5C458F;stop-opacity:1;"
          offset="0"
          id="stop5016" />
     </linearGradient>
@@ -261,7 +261,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4407">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4409"
          width="10"
          height="13.000003"
@@ -272,7 +272,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4413">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4415"
          width="10"
          height="13"
@@ -283,7 +283,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4407-2">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4409-7"
          width="10"
          height="13.000003"
@@ -294,7 +294,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4413-2">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4415-8"
          width="10"
          height="13"
@@ -305,7 +305,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4407-1">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4409-1"
          width="10"
          height="13.000003"
@@ -316,7 +316,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4413-9">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4415-6"
          width="10"
          height="13"
@@ -327,7 +327,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4407-2-4">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4409-7-6"
          width="10"
          height="13.000003"
@@ -338,7 +338,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4413-2-6">
       <rect
-         style="opacity:0.57900002;fill:#66a1dc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.57900002;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4415-8-6"
          width="10"
          height="13"
@@ -814,17 +814,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710674"
-     inkscape:cx="78.29321"
-     inkscape:cy="136.6666"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="238.20483"
+     inkscape:cy="212.54624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -849,9 +849,9 @@
        snapvisiblegridlinesonly="true"
        originx="7"
        originy="-920"
-       color="#4e4eff"
+       color="#5C458F"
        opacity="0.1254902"
-       empcolor="#5252ff"
+       empcolor="#5C458F"
        empopacity="0.25098039" />
     <sodipodi:guide
        orientation="1,0"
@@ -995,7 +995,8 @@
     </g>
     <g
        id="button-active"
-       inkscape:label="#g9380">
+       inkscape:label="#g9380"
+       style="opacity:0.00000001">
       <rect
          ry="1.5"
          rx="1.5"
@@ -2652,51 +2653,51 @@
     <g
        id="arrow-left-prelight"
        transform="matrix(0,0.74646448,-0.80750136,0,28.210562,49.8995)"
-       style="display:inline;fill:#5294e2;fill-opacity:1"
+       style="display:inline;fill:#5C458F;fill-opacity:1"
        inkscape:label="#g4159-9-2-8">
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="status"
          id="layer9-0-5-2" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="devices"
          id="layer10-55-1-8"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="apps"
          id="layer11-0-7-5"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="places"
          id="layer13-80-7-5"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="mimetypes"
          id="layer14-8-4-6"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emblems"
          id="layer15-2-5-5" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emotes"
          id="g71291-0-8-3" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="categories"
          id="g4953-14-7-9" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="actions"
          id="layer12-2-6-7">
         <path
@@ -2710,51 +2711,51 @@
     <g
        id="arrow-right-prelight"
        transform="matrix(0,0.74646448,0.80750136,0,15.789437,60.8995)"
-       style="display:inline;fill:#5294e2;fill-opacity:1"
+       style="display:inline;fill:#5C458F;fill-opacity:1"
        inkscape:label="#g4159-9-7">
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="status"
          id="layer9-0-1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="devices"
          id="layer10-55-5"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="apps"
          id="layer11-0-0"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="places"
          id="layer13-80-76"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="mimetypes"
          id="layer14-8-1"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emblems"
          id="layer15-2-4" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emotes"
          id="g71291-0-9" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="categories"
          id="g4953-14-3" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="actions"
          id="layer12-2-1">
         <path
@@ -3038,51 +3039,51 @@
     <g
        id="arrow-up-prelight"
        transform="matrix(0.7464645,0,0,-0.80750136,16.537321,82.572742)"
-       style="display:inline;fill:#5294e2;fill-opacity:1"
+       style="display:inline;fill:#5C458F;fill-opacity:1"
        inkscape:label="#g4159-7-3">
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="status"
          id="layer9-6-7" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="devices"
          id="layer10-1-6"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="apps"
          id="layer11-5-7"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="places"
          id="layer13-1-0"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
          inkscape:label="mimetypes"
          id="layer14-3-1"
-         style="fill:#5294e2;fill-opacity:1" />
+         style="fill:#5C458F;fill-opacity:1" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emblems"
          id="layer15-6-0" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="emotes"
          id="g71291-9-2" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="categories"
          id="g4953-1-9" />
       <g
          transform="translate(-181.0002,-747)"
-         style="display:inline;fill:#5294e2;fill-opacity:1"
+         style="display:inline;fill:#5C458F;fill-opacity:1"
          inkscape:label="actions"
          id="layer12-8-4">
         <path
@@ -4119,7 +4120,7 @@
          style="opacity:1;fill:#31364A;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <rect
-       style="opacity:1;fill:#33353f;fill-opacity:1;stroke:#4a4e58;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#292d3e;fill-opacity:1;stroke:#4a4e58;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="inline-toolbar"
        width="23"
        height="33"
@@ -5996,7 +5997,7 @@
          inkscape:label="#g5032"
          id="g950">
         <rect
-           style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect948"
            width="25"
            height="15"
@@ -6035,7 +6036,7 @@
            height="15"
            width="25"
            id="rect5490"
-           style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#5C458F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
   </g>
